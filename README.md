@@ -11,4 +11,3 @@ Bu basit Python koduyla (`turtle` kütüphanesini kullanarak) güneş (☀️), 
 1. Python 3 yüklü olmalı
 2. `turtle` zaten Python ile birlikte geliyor, ekstra kurulum gerekmez.
 3. Dosyayı kaydet ve programı çalıştır
-
